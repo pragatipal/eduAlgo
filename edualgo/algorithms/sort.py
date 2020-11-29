@@ -2,7 +2,7 @@ import time
 import numpy as np
 from itertools import permutations
 
-from __init__ import print_msg_box
+from .__init__ import print_msg_box
 
 
 # bubble sort algorithm
@@ -329,28 +329,28 @@ def merge_sorted_lists(l1, l2):
         if i >= len(l1):
             arr.append(l2[j])
             j += 1
-            continue;
+            continue
         if l1[i] < l2[j]:
             arr.append(l1[i])
             i += 1
         else:
             arr.append(l2[j])
             j += 1
-        return arr
+    return arr
 
 def merge_sort_impl(arr):
     if len(arr) <= 1:
         return arr
     else:
-        return self.merge_sorted_lists(self.merge_sort_impl(arr[:(len(arr)//2)]), self.merge_sort_impl(arr[(len(arr)//2):]))
+        return merge_sorted_lists(merge_sort_impl(arr[:(len(arr)//2)]), merge_sort_impl(arr[(len(arr)//2):]))
 
 def merge_sort(arr, hint=False):
     start = time.time()
-    result = self.merge_sort_impl(arr)
+    result = merge_sort_impl(arr)
     end = time.time()
     print("Merge Sort Runtime = {}".format(end-start))
     if(hint==True):
-        self.merge_sort_hint()
+        merge_sort_hint()
     return result
 
 def merge_sort_hint():

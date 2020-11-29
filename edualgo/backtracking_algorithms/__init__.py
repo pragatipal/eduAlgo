@@ -11,5 +11,3 @@ def print_msg_box(msg, indent=1, width=None, title=None):
     box += ''.join([f'║{space}{line:<{width}}{space}║\n' for line in lines])
     box += f'╚{"═" * (width + indent * 2)}╝'  # lower_border
     print(box)
-
-

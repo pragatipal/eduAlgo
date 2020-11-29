@@ -1,6 +1,9 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src ="https://edualgo.github.io/documentation/assets/images/eduAlgo.png" height = "250">
 
@@ -25,6 +28,13 @@ This is a very simple python package made up with python script to study differe
 * Visualizing Algorithms
 * Getting resources, articles etc. to study about python and Algorithms
 * Become a handy tool for the programmers while using different algorithms on daily basis
+
+## Organization
+
+This project is a part of the organization <a href="https://edualgo.github.io/organization/">eduAlgo</a>.
+
+> We are an opensource organization having a few open-sourced projects on github related to Data structures and Algorithms in Python, Flutter Development & Frontend Development.
+chek the organization here - <a href="https://github.com/eduAlgo">eduAlgo</a>
 
 ## Documentation
 The documentation for the included methods and their implementations can be found here => <a href = "https://edualgo.github.io/documentation/index.html">eduAlgo-Documentation</a>
@@ -88,9 +98,18 @@ This project has been a part of the devsprint by PyCon 2020 and can be viewed he
 <img src = "https://github.com/Abhijit2505/eduAlgo/blob/master/assets/PyconIndia-Full-lite.png" height="300">
 
 
-## Demo Video Link
+## Latest Winter Update (Package Demo)
 
-<a href = "https://www.youtube.com/embed/j4A3OV8KJEQ"><img src = "https://github.com/Abhijit2505/eduAlgo/blob/master/assets/FOSSyt.PNG" height = "300"></a>
+<a href = "https://www.youtube.com/embed/ly_GYSBGL2g"><img src = "https://github.com/Abhijit2505/eduAlgo/blob/master/assets/winterupdate.PNG" height = "200"></a>
+
+
+## Short Demo Video Link
+
+<a href = "https://www.youtube.com/embed/C39M8KwwZ6U"><img src = "https://github.com/Abhijit2505/eduAlgo/blob/master/assets/short_demo.PNG" height = "200"></a>
+
+## Long Demo Video Link
+
+<a href = "https://www.youtube.com/embed/j4A3OV8KJEQ"><img src = "https://github.com/Abhijit2505/eduAlgo/blob/master/assets/FOSSyt.PNG" height = "200"></a>
 
 ## License
 
@@ -113,6 +132,20 @@ This package is under **MIT License** copyright @<a href = "https://github.com/A
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Monisha-23"><img src="https://avatars3.githubusercontent.com/u/67052670?v=4" width="100px;" alt=""/><br /><sub><b>Monisha-23</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=Monisha-23" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/vedantgoswami"><img src="https://avatars0.githubusercontent.com/u/56600948?v=4" width="100px;" alt=""/><br /><sub><b>vedantgoswami</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=vedantgoswami" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100px;" alt=""/><br /><sub><b>Siddhant Khare</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=Siddhant-K-code" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -130,6 +163,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/yash872"><img src="https://avatars3.githubusercontent.com/u/30313851?v=4" width="100px;" alt=""/><br /><sub><b>Yash Bhawsar</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=yash872" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/pransh-tiwari/"><img src="https://avatars3.githubusercontent.com/u/17355873?v=4" width="100px;" alt=""/><br /><sub><b>Pransh Tiwari</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=nyctophiliacme" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pragatipal"><img src="https://avatars3.githubusercontent.com/u/71111053?v=4" width="100px;" alt=""/><br /><sub><b>Pragati Pal </b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=pragatipal" title="Code">💻</a></td>
+    <td align="center"><a href="http://fubble.tk"><img src="https://avatars2.githubusercontent.com/u/43098511?v=4" width="100px;" alt=""/><br /><sub><b>Akash Kumar Bhagat</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=charlie219" title="Code">💻</a></td>
+    <td align="center"><a href="http://harshcasper.github.io"><img src="https://avatars1.githubusercontent.com/u/47351025?v=4" width="100px;" alt=""/><br /><sub><b>Harsh Bardhan Mishra</b></sub></a><br /><a href="https://github.com/Abhijit2505/eduAlgo/commits?author=HarshCasper" title="Code">🧠</a></td>
   </tr>
 </table>
 
